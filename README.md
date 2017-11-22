@@ -20,3 +20,6 @@
 
 3.  run cgvr_exp.py sqhinge
 
+# Cite
+
+Xiao-Bo Jin, Xu-Yao Zhang, Kaizhu Huang, Guang-Gang Geng, Stochastic Conjugate Gradient Algorithm with Variance Reduction, https://arxiv.org/abs/1710.09979.
