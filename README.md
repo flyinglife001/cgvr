@@ -10,11 +10,13 @@
    
    armadillo matrix library
 
- 
+# Run
 
 1.  download the dataset:  'a9a','covtype','w8a','ijcnn1','SUSY','HIGGS'
 
 2.  modify the data dir of the dataset.
 
-3.  run cgvr_exp.py
+4.  create the dir "sqhinge" in the current dir
+
+3.  run cgvr_exp.py sqhinge
 
