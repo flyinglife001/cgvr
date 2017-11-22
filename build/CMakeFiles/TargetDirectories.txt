@@ -1,0 +1,2 @@
+/home/vision/cppfile/cgvr/build/CMakeFiles/svm-predict.dir
+/home/vision/cppfile/cgvr/build/CMakeFiles/svm-train.dir

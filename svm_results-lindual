@@ -1,0 +1,1 @@
+{"loss": "hinge", "name": "svm", "valid": "0.899204", "time": "13.000000", "test": "0.893823", "dt": "a9a", "lambda": "1e-1"}

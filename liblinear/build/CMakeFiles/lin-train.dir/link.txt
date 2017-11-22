@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/lin-train.dir/train.cpp.o CMakeFiles/lin-train.dir/linear.cpp.o CMakeFiles/lin-train.dir/tron.cpp.o  -o lin-train  -L/home/vision/cppfile/cgvr/liblinear/blas -rdynamic -larmadillo -Wl,-Bstatic -lblas -Wl,-Bdynamic -Wl,-rpath,/home/vision/cppfile/cgvr/liblinear/blas 

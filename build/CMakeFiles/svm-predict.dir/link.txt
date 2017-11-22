@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/svm-predict.dir/svm/svm-predict.cpp.o CMakeFiles/svm-predict.dir/svm/svm.cpp.o  -o svm-predict -rdynamic -larmadillo 

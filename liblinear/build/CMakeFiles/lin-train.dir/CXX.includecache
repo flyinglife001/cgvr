@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vision/cppfile/cgvr/liblinear/linear.h
+
+/home/vision/cppfile/cgvr/liblinear/train.cpp
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+errno.h
+-
+linear.h
+/home/vision/cppfile/cgvr/liblinear/linear.h
+time.h
+-
+

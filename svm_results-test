@@ -1,0 +1,11 @@
+{"loss": "hinge", "name": "svm", "valid": " 75.3894", "time": "0.06", "test": " 76.683", "dt": "a1a", "lambda": 100.0}
+{"loss": "hinge", "name": "svm", "valid": " 79.7508", "time": "0.06", "test": " 84.184", "dt": "a1a", "lambda": 10.0}
+{"loss": "hinge", "name": "svm", "valid": " 80.9969", "time": "0.06", "test": " 84.1226", "dt": "a1a", "lambda": 1.0}
+{"loss": "hinge", "name": "svm", "valid": " 81.6199", "time": "0.14", "test": " 83.2181", "dt": "a1a", "lambda": 0.1}
+{"loss": "hinge", "name": "svm", "valid": " 81.3084", "time": "0.78", "test": " 83.1987", "dt": "a1a", "lambda": 0.01}
+{"loss": "hinge", "name": "svm", "valid": " 77.7042", "time": "0.13", "test": " 78.1588", "dt": "a2a", "lambda": 100.0}
+{"loss": "hinge", "name": "svm", "valid": " 82.1192", "time": "0.12", "test": " 84.4864", "dt": "a2a", "lambda": 10.0}
+{"loss": "hinge", "name": "svm", "valid": " 81.6777", "time": "0.13", "test": " 84.1959", "dt": "a2a", "lambda": 1.0}
+{"loss": "hinge", "name": "svm", "valid": " 82.1192", "time": "0.27", "test": " 83.747", "dt": "a2a", "lambda": 0.1}
+{"loss": "hinge", "name": "svm", "valid": " 81.8985", "time": "1.99", "test": " 83.6249", "dt": "a2a", "lambda": 0.01}
+{"loss": "hinge", "name": "svm", "valid": " 82.7316", "time": "0.24", "test": " 82.37", "dt": "a3a", "lambda": 100.0}
